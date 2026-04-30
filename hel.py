@@ -1,1 +1,1 @@
-viji
+print("viji")
